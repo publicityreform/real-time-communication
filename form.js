@@ -6,7 +6,7 @@
 
 const main = document.getElementById("main");
 const index = document.getElementById('index');
-const requestURL = "/real-time-communication/RTC.json";
+const requestURL = "https://publicityreform.github.io/real-time-communication/RTC.json";
 
 let request = new XMLHttpRequest();
 
