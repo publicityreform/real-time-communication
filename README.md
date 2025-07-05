@@ -1,2 +1,1 @@
-# real-time-communication
-a non-custodial archive of artworks that communicate across distance in real time
+Tracing some technological, cultural, and conceptual histories of the push to be virtually present and sychronized, alongside some experimental / performative hacks to explore the effects of these histories. 
